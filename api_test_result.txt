@@ -1,0 +1,2 @@
+状态码: 200
+响应内容: {"id":"0195236d058d4895598b78dc54592d98","object":"chat.completion","created":1740056102,"model":"deepseek-ai/DeepSeek-V3","choices":[{"index":0,"message":{"role":"assistant","content":"你好！很高兴见到你。有什么我可以帮助你的吗？无论是关于某个话题的问题，还是需要建议或信息，我都在这里为你提供服务。😊"},"finish_reason":"stop"}],"usage":{"prompt_tokens":4,"completion_tokens":32,"total_tokens":36},"system_fingerprint":""}
