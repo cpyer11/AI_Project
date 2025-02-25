@@ -6,7 +6,7 @@ import time
 
 # API 配置（请替换为实际的API Token）
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-API_TOKEN = "sk-wtzaawrhxlrmbhowrafnuurmowbfyjrqrutsejdpnitvyfxh"  # 请替换为你的 SiliconFlow API token
+API_TOKEN = ""  # 请替换为你的 SiliconFlow API token
 
 # 发送消息到API并获取回复
 def call_api(message):

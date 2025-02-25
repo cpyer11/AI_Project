@@ -3,7 +3,7 @@ import time
 
 # API 配置
 url = "https://api.siliconflow.cn/v1/chat/completions"
-token = "sk-wtzaawrhxlrmbhowrafnuurmowbfyjrqrutsejdpnitvyfxh"  # 替换为你的实际 Token（不含 Bearer 前缀）
+token = ""  # 替换为你的实际 Token（不含 Bearer 前缀）
 headers = {
     "Authorization": f"Bearer {token}",
     "Content-Type": "application/json"
